@@ -2,7 +2,7 @@
 
 The image that is a file in the directory:
 
-![longmao](longmao.jpg)
+![pic](./pic.jpeg)
 
 image that is file on the web:
 
