@@ -2,7 +2,7 @@
 
 The image that is a file in the directory:
 
-![longmao](C:\Users\Administrator\Desktop\21180209-U1\longmao.jpg)
+![longmao](longmao.jpg)
 
 image that is file on the web:
 
